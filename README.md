@@ -1,3 +1,6 @@
+![Logo](https://github.com/Erove13/prison_break_game/issues/1)
+
+
 # Escape Room: Prison Break at Fox River
 
 Welcome to **Prison Break: Fox River**, an immersive escape room experience where you find yourself trapped in the cold, dimly lit cell of Fox River State Penitentiary. Framed for a crime you didn't commit, your mission is clear: escape before it's too late. The walls around you hold secrets, and you’ve been meticulously planning for months, waiting for the perfect moment to make your move. That moment is now.
