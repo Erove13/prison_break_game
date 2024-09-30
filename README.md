@@ -1,4 +1,4 @@
-![Logo](https://github.com/Erove13/prison_break_game/issues/1)
+![Logo](https://github.com/Erove13/prison_break_game/issues/1#issue-2557354766)
 
 
 # Escape Room: Prison Break at Fox River
